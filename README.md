@@ -1,40 +1,58 @@
-# 💫 About Me:
-🔭 I’m currently working on: Exploring computer vision projects, diving into image recognition algorithms, and building practical applications in the field.<br><br>
-👯 I’m looking to collaborate on: Open-source computer vision projects, machine learning experiments, and any exciting initiatives related to artificial intelligence.<br><br>
-🤝 I’m looking for help with: Advanced machine learning techniques, deep learning frameworks, and real-world applications of computer vision.<br><br>
-🌱 I’m currently learning: Deepening my knowledge in neural networks, delving into advanced computer vision algorithms, and mastering data preprocessing techniques for machine learning models.<br><br>
-💬 Ask me about: Computer vision, image processing, machine learning concepts, or anything related to the intersection of technology and visual data.<br><br>
-
-[![](https://visitcount.itsvg.in/api?id=yusufM03&icon=0&color=0)](https://visitcount.itsvg.in)
----
-
-## 📝 **Medium Blog**:
-[![Medium](https://img.shields.io/badge/Medium-%23000000.svg?logo=Medium&logoColor=white&style=for-the-badge)](https://medium.com/@youssefmakhlouf139)
+# Youssef Makhlouf 👋  
+**AI Engineer | End-to-End ML Deployment | Computer Vision | Generative AI**  
+Tunis, Tunisia | youssef.makhlouf@supcom.tn  
 
 ---
 
-## 🌐 How to reach me:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/m._youssefmakhlouf)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/youssef-makhlouf-608aa622a)  
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@yusufMK2001)  
-[![Kaggle](https://img.shields.io/badge/Kaggle-%2301a8fc.svg?logo=kaggle&logoColor=white)](https://www.kaggle.com/yusuf03)
+## 💫 About Me  
+AI Engineer focused on delivering end-to-end solutions — from raw data to production deployment. Skilled in building scalable machine learning pipelines and integrating models into user-friendly applications. Passionate about reliable, efficient AI systems that make an impact.
 
 ---
+## 🌐 Connect with Me  
+<p align="left">
+  <a href="https://www.linkedin.com/in/youssef-makhlouf-608aa622a" target="_blank" rel="noopener noreferrer">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="40" />
+  </a>
+  <a href="https://medium.com/@youssefmakhlouf139" target="_blank" rel="noopener noreferrer" >
+    <img src="https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white&style=for-the-badge" alt="Medium" />
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)  
-![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white)  
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)  
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)  
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)  
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  
-![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)  
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+  </a>
+  <a href="https://www.instagram.com/m._youssefmakhlouf" target="_blank" rel="noopener noreferrer">
+    <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" width="40" />
+  </a>
+  <a href="https://www.youtube.com/@yusufMK2001" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.icons8.com/color/48/000000/youtube-play.png" alt="YouTube" width="40" />
+  <a href="https://www.kaggle.com/yusuf03" target="_blank" rel="noopener noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" alt="Kaggle" width="40" /> </a>
+  
+</p>
+
+
+
+
+## 💻 Tech Stack  
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="Azure" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="Jupyter" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="Django" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VSCode" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" alt="OpenCV" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" />
+</p>
 
 ---
 
@@ -44,10 +62,3 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=yusufM03&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
-
----
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
